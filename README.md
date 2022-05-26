@@ -12,7 +12,7 @@
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- This project is a movers web application for that shows details about the services it offers, has information about the moving company, a portfolio section and a form that enables users to send their requests and concerns to Movers website.
+ This project is a color flipper application which when you click the button the color will change randomly
 ## Features
 As a user of the application,you will be able to :
 1. See a description of what the services offered by the moving company
@@ -33,11 +33,12 @@ As a user of the application,you will be able to :
 ### Technology  Used
 * HTML - which was used to develope the structure off the pages.
 * CSS - which was used to style the User Interface.
+* Javascript- which was used to add logic to the color flipper
 [Go Back to the top](#color-flipper)
 ## Instructions
 * The website is not responsive can only be used on a desktop
 ## Licence
 This project is licensed under the terms of the MIT license
-[Go Back to the top](# color-flipper)
+[Go Back to the top](#color-flipper)
 ## Authors Info
 Dennis kiprop Masiror
